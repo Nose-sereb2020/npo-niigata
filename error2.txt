@@ -1,0 +1,36 @@
+jQuery.Event {originalEvent: DragEvent, type: "drop", timeStamp: 43526.14999999969, jQuery112406795218103073954: true, isDefaultPrevented: ƒ, …}
+altKey: false
+bubbles: true
+button: 0
+buttons: 0
+cancelable: true
+clientX: 120
+clientY: 157
+ctrlKey: false
+currentTarget: div#draggable.ui-widget-content.ui-draggable.ui-draggable-handle.ui-resizable
+data: undefined
+delegateTarget: div#draggable.ui-widget-content.ui-draggable.ui-draggable-handle.ui-resizable
+detail: 0
+eventPhase: 2
+fromElement: null
+handleObj: {type: "drop", origType: "drop", data: undefined, guid: 40, handler: ƒ, …}
+isDefaultPrevented: ƒ returnTrue()
+isPropagationStopped: ƒ returnTrue()
+jQuery112406795218103073954: true
+metaKey: false
+offsetX: 79
+offsetY: 76
+originalEvent: DragEvent {isTrusted: true, dataTransfer: DataTransfer, screenX: 721, screenY: 640, clientX: 120, …}
+pageX: 120
+pageY: 157
+relatedTarget: null
+screenX: 721
+screenY: 640
+shiftKey: false
+target: div#draggable.ui-widget-content.ui-draggable.ui-draggable-handle.ui-resizable
+timeStamp: 43526.14999999969
+toElement: div#draggable.ui-widget-content.ui-draggable.ui-draggable-handle.ui-resizable
+type: "drop"
+view: Window {parent: Window, opener: null, top: Window, length: 0, frames: Window, …}
+which: 1
+__proto__: Object
